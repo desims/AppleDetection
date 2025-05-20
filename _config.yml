@@ -1,0 +1,13 @@
+title: "Blog AI & Data Science Sel"
+author: "Sel"
+logo: ""
+language: "en"
+execute:
+  execute_notebooks: "auto"
+  timeout: 60
+html:
+  favicon: ""
+  use_pygments: true
+  toc:
+    depth: 2
+    numbered: true
