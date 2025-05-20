@@ -1,6 +1,9 @@
 # Selamat datang di Blog AI & Data Science Sel!
 
-Blog ini berisi konten seputar AI, Data Science, dan contoh-contoh kode Python.
+![image](https://github.com/user-attachments/assets/476a9b1e-c5a3-486a-9fea-26d25e9d6992)
+![image](https://github.com/user-attachments/assets/6edf1a1e-adea-4e84-ae7c-4766126fd85f)
+
+
 
 Implementasi pertama tanpa merubah konsep dasar dari teknik sama sekali, menghasilkan model yang baik untuk warna merah dan gagal untuk warna kuning dan hijau
 
