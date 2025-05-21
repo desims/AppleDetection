@@ -2,6 +2,8 @@
 
 ![image](https://github.com/user-attachments/assets/476a9b1e-c5a3-486a-9fea-26d25e9d6992)
 ![image](https://github.com/user-attachments/assets/6edf1a1e-adea-4e84-ae7c-4766126fd85f)
+![image](https://github.com/user-attachments/assets/95470331-48a6-4726-a83d-90338c204001)
+
 
 
 
@@ -49,4 +51,12 @@ high_green = np.array([85, 255, 255])
 ![image](https://github.com/user-attachments/assets/6edf1a1e-adea-4e84-ae7c-4766126fd85f)
 
 ---
+```python
+#Merubah hsv warna hijau yang didapatkan dari percobaan sebelumnya
+# Hijau muda ke hijau tua (gradasi apel hijau)
+low_green = np.array([40, 40, 40])
+high_green = np.array([90, 255, 255])
+```
 
+![image](https://github.com/user-attachments/assets/a4b73b30-4997-433f-acf8-8509b52a1276)
+---
